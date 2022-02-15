@@ -35,14 +35,14 @@
     padding-left: 6px;
   }
   form button {
-    color: #ff6f47;
+    color: #00A8F3;
     background: #f7fffe;
     cursor: pointer;
     transition: all 0.3s ease;
     border-radius: 5px;
   }
   form button:hover {
-    background: #ff6f47;
+    background: #00A8F3;
     color: white;
   }
   .todo-container {
@@ -65,7 +65,6 @@
     margin: 0.5rem;
     background: white;
     font-size: 1.5rem;
-    color: red;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -78,7 +77,7 @@
   
   .trash-btn,
   .complete-btn {
-    background: #ff6f47;
+    background: #00A8F3;
     color: white;
     border: none;
     padding: 1rem;
